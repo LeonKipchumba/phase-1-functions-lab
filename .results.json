@@ -5,15 +5,15 @@
     "passes": 6,
     "pending": 0,
     "failures": 7,
-    "start": "2025-03-08T22:03:21.610Z",
-    "end": "2025-03-08T22:03:22.206Z",
-    "duration": 596
+    "start": "2025-03-10T07:57:58.305Z",
+    "end": "2025-03-10T07:57:58.713Z",
+    "duration": 408
   },
   "tests": [
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -200,7 +200,7 @@
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
